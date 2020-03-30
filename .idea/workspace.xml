@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1471341a-37ed-4f1e-83f5-b4ab9345b7b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DayOfTheProgrammer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erikriosetiawan/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erikriosetiawan/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/erikriosetiawan/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +62,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585530317160</updated>
-      <workItem from="1585530321449" duration="3383000" />
+      <workItem from="1585530321449" duration="3632000" />
     </task>
+    <task id="LOCAL-00001" summary="Add the solution code">
+      <created>1585534542079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585534542079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add the solution code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the solution code" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="216" y="27" width="923" height="741" key="CommitChangelistDialog2" timestamp="1585534541909">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="216" y="27" width="923" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585534541909" />
     <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1585534394716">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
